@@ -1,0 +1,39 @@
+body{
+    padding: auto;
+    margin:0px;
+    display:grid;
+    box-sizing:border-box;
+    color: black;
+    background-color: rgb(34 95, 120);
+
+
+
+   
+}
+header {
+    top: 1px;
+    left: 1px;
+    width:100%;
+    color: black;
+    
+}
+main {
+    position:static ;
+    padding-top: 100%;
+    margin: auto;
+
+
+
+
+}
+nav {
+    position: fixed;
+    background-color:rgb(176, 176, 169);
+    color: black;
+}
+footer{
+    position: fixed;
+    bottom: 1px;
+    left:1px;
+    width:100%;
+}
